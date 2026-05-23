@@ -1,17 +1,3 @@
-"""
-Bank Loan Case Study — Analysis Script
-=======================================
-Risk assessment and EDA to predict loan approval outcomes.
-Uses Logistic Regression and Random Forest classification.
-
-Usage:
-    python scripts/analysis.py
-
-Output:
-    - EDA summary printed to console
-    - Model performance metrics printed
-    - 4 charts saved to outputs/
-"""
 
 import pandas as pd
 import numpy as np
